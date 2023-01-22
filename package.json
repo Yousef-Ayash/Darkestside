@@ -1,0 +1,37 @@
+{
+    "name": "DarkestSide",
+    "displayName": "Darkestside Theme",
+    "description": "a Dark theme that is easy on the eyes with beautiful colors for a lot of languages to use",
+    "publisher": "YousefAyash",
+    "license": "MIT",
+    "scripts": {
+        "vsce-publish": "vsce publish"
+    },
+    "version": "1.0.1",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Yousef-Ayash/Darkestside.git"
+    },
+    "keywords": [
+        "darkestside",
+        "dark",
+        "theme",
+        "color-theme"
+    ],
+    "icon": "",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DarkestSide Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DarkestSide-Theme.json"
+            }
+        ]
+    }
+}
