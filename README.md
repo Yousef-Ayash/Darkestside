@@ -8,7 +8,7 @@ a Dark theme that is easy on the eyes with beautiful colors for a lot of languag
 
 1. Download [Visual Studio Code](http://code.visualstudio.com)
 2. Open The Extensions in The Side Bar
-3. Search for DarkestSide
+3. Search for "DarkestSide"
 4. Install it and use it
 5. Enjoy :)
 

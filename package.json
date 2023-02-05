@@ -7,7 +7,7 @@
     "scripts": {
         "vsce-publish": "vsce publish"
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.13.0"
     },
@@ -21,7 +21,7 @@
         "theme",
         "color-theme"
     ],
-    "icon": "",
+    "icon": "icon.png",
     "categories": [
         "Themes"
     ],
